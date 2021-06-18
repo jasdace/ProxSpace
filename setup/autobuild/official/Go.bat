@@ -1,3 +1,3 @@
 @echo off
 call client\setup.bat
-client\proxmark3 COM5
+client\proxmark3 COM9
